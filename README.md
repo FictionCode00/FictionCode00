@@ -44,8 +44,6 @@
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/FictionCode00/FictionCode00/output/snake.svg" alt="Snake animation" />
 
 ###
